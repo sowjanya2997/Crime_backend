@@ -1,2 +1,3 @@
-# Crime_backend
-Placing all the play files
+# play-app-demo
+
+This is Java Play App demo.
