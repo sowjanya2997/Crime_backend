@@ -37,7 +37,7 @@ public class FakeUserDao implements UserDao {
     }
 
     @Override
-    public Collection<User> all() {
+    public Collection<User> getAllUsers() {
         return Arrays.asList(user);
     }
 

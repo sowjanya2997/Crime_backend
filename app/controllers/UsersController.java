@@ -190,7 +190,7 @@ public class UsersController extends Controller {
     @Transactional
     public Result getAllUsers() {
 
-        Collection<User> users = userDao.all();
+        Collection<User> users = userDao.getAllUsers();
 
         final JsonNode result = Json.toJson(users);
 

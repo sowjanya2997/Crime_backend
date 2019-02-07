@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/Madhu/Documents/play-app-demo/conf/routes
-// @DATE:Thu Feb 07 14:46:03 IST 2019
+// @SOURCE:/Users/Madhu/Documents/crimes/Crime_backend/conf/routes
+// @DATE:Thu Feb 07 15:41:27 IST 2019
 
 import play.api.routing.JavaScriptReverseRoute
 

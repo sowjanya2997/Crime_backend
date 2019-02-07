@@ -13091,8 +13091,88 @@
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.8.11!jackson-core.jar(src)
 [debug] 	[NOT REQUIRED] javax.activation#javax.activation-api;1.2.0!javax.activation-api.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-java-jpa_2.12;2.6.20!play-java-jpa_2.12.jar(src)
+[debug] no default ivy user dir defined: set to /Users/Madhu/.ivy2
+[debug] no default ivy user dir defined: set to /Users/Madhu/.ivy2
+[debug] no default ivy user dir defined: set to /Users/Madhu/.ivy2
 [debug] 	[NOT REQUIRED] org.reflections#reflections;0.9.11!reflections.jar(src)
+[debug] no default ivy user dir defined: set to /Users/Madhu/.ivy2
 [debug] 	[NOT REQUIRED] org.hibernate#hibernate-core;5.3.7.Final!hibernate-core.jar(src)
+[debug] no default ivy user dir defined: set to /Users/Madhu/.ivy2
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /Users/Madhu/.ivy2/cache
+[debug] no default cache defined: set to /Users/Madhu/.ivy2/cache
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/Madhu/.ivy2/cache
+[debug] no default cache defined: set to /Users/Madhu/.ivy2/cache
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/Madhu/.ivy2/cache
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (26ms)
+[debug] 	default cache: /Users/Madhu/.ivy2/cache
+[debug] 	default resolver: default
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] settings loaded (25ms)
+[debug] 	default cache: /Users/Madhu/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (26ms)
+[debug] 	default cache: /Users/Madhu/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (20ms)
+[debug] 	default cache: /Users/Madhu/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/Madhu/.sbt/boot/scala-2.12.6/org.scala-sbt/sbt/1.2.1/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (27ms)
+[debug] 	default cache: /Users/Madhu/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] 	[NOT REQUIRED] com.google.j2objc#j2objc-annotations;1.1!j2objc-annotations.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream_2.12;2.5.17!akka-stream_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.12;2.6.10!play-functional_2.12.jar(src)
@@ -13151,8 +13231,8 @@
 [debug] 	[NOT REQUIRED] org.springframework#spring-core;4.3.11.RELEASE!spring-core.jar(src)
 [debug] 	[NOT REQUIRED] org.dom4j#dom4j;2.1.1!dom4j.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.8.11.1!jackson-databind.jar(src)
-[debug] 	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.8.11!jackson-annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.3!config.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.12;0.2.4!ssl-config-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-enhancer;1.2.2!play-enhancer.jar(src)
@@ -13160,8 +13240,8 @@
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.12;2.5.17!akka-slf4j_2.12.jar(src)
 [debug] 	[NOT REQUIRED] javax.validation#validation-api;1.1.0.Final!validation-api.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.8.11!jackson-datatype-jdk8.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc_2.12;2.6.20!play-jdbc_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-logback_2.12;2.6.20!play-logback_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc_2.12;2.6.20!play-jdbc_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.google.errorprone#error_prone_annotations;2.0.18!error_prone_annotations.jar(src)
 [debug] 	[NOT REQUIRED] org.springframework#spring-context;4.3.11.RELEASE!spring-context.jar(src)
 [debug] 	[NOT REQUIRED] aopalliance#aopalliance;1.0!aopalliance.jar(src)
@@ -13225,27 +13305,27 @@
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-doc_2.12;1.8.1!play-doc_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;5.0.3!asm-tree.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-omnidoc_2.12;2.6.20!play-omnidoc_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;5.0.3!asm-util.jar(src)
 [debug] 	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.7!parboiled-java.jar(src)
-[debug] :: resolution report :: resolve 1647ms :: artifacts dl 43ms
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT compile produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT runtime produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT test produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT provided produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-provided.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT optional produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-optional.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal-docs produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-docs.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal-src produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-src.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT windows produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-windows.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT docker produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docker.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT linux produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-linux.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT rpm produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-rpm.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT debian produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-debian.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT compile-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile-internal.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT runtime-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime-internal.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT test-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test-internal.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT plugin produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-plugin.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT pom produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-pom.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT scala-tool produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-scala-tool.xml
-[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT docs produced in /Users/Madhu/Documents/crimes/Crime_backend/play-app-demo/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docs.xml
-[debug] 	resolve done (1647ms resolve - 43ms download)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;5.0.3!asm-util.jar(src)
+[debug] :: resolution report :: resolve 2819ms :: artifacts dl 81ms
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT compile produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT runtime produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT test produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT provided produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-provided.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT optional produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-optional.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal-docs produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-docs.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT universal-src produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-universal-src.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT windows produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-windows.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT docker produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docker.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT linux produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-linux.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT rpm produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-rpm.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT debian produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-debian.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT compile-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-compile-internal.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT runtime-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-runtime-internal.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT test-internal produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-test-internal.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT plugin produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-plugin.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT pom produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-pom.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT scala-tool produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-scala-tool.xml
+[debug] 	report for play-java-starter-example#play-java-starter-example$sources;1.0-SNAPSHOT docs produced in /Users/Madhu/Documents/crimes/Crime_backend/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example$sources-docs.xml
+[debug] 	resolve done (2819ms resolve - 81ms download)

@@ -9,6 +9,6 @@ public interface CrudDao<E, K> {
     Optional<E> read(K id);
     E update(E entity);
     E delete(K id);
-    Collection<E> all();
+    Collection<E> getAllUsers();
 
 }

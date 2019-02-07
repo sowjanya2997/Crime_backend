@@ -26,6 +26,11 @@ public class FakeBookDao implements BookDao {
         return fakeBook;
     }
 
+    @Override
+    public Collection<Book> getAllUsers() {
+        return null;
+    }
+
     public Collection<Book> all() {
         return Arrays.asList(fakeBook);
     }
